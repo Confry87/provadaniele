@@ -1,0 +1,32 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+#immagine{
+    height: 500px;
+    width: auto;
+
+}
+
+.colonna {
+    float: left;
+    padding: 35px;
+    border: 5px dotted pink;
+    margin: 30px;
+    display: inline-block;
+    width: 400px;
+
+    
+  }
+
+.colonna1 {
+   display: inline-block;
+   width: 50%;
+    padding: 35px;
+    margin: 30px;
+    border: 5px dashed rgb(214, 213, 213);
+ }

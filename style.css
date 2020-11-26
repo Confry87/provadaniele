@@ -1,0 +1,29 @@
+.title{
+    position: static;
+    border-bottom: 3px solid rgb(252, 132, 132);
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+.relative{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 5px dashed rgb(156, 154, 154);
+    padding: 20px;
+    width: 450px;
+    height: 350px;
+}
+
+#fotocopertina{
+    border: 5px dashed pink;
+    width: 160px;
+    height: auto;
+    padding: 20px;
+}
+
+#foto{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
